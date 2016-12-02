@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\bin\Debug\Sorting_Num.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\bin\Debug\Sorting_Num.exe
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\bin\Debug\Sorting_Num.pdb
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.exe
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.pdb
+c:\users\user\documents\visual studio 2015\Projects\Sorting_Num\Sorting_Num\obj\Debug\Sorting_Num.About.resources
